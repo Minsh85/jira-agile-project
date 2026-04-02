@@ -4,7 +4,7 @@ This project demonstrates how I used Jira to manage IT support tasks using Scrum
 
 ---
 
-## 🔧 Project Overview
+## Project Overview
 
 - Managed IT support tasks using Jira Scrum board  
 - Created Epics, User Stories, and Sub-tasks  
@@ -40,3 +40,9 @@ This project demonstrates how I used Jira to manage IT support tasks using Scrum
 - Jira workflow management  
 - Issue tracking and prioritization  
 - Basic reporting and dashboard analysis
+
+---
+
+## 🛠️ Tools Used
+-  Jira (Scrum Board, Backlog, Dashboard, Reporting)
+-  Agile / Scrum methodology
