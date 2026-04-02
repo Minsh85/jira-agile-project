@@ -16,22 +16,21 @@ This project demonstrates how I used Jira to manage IT support tasks using Scrum
 
 ## 📋 Backlog & Sprint Planning
 
-![Backlog](images/jira-backlog-sprint-management.png)
+<img src="images/jira-backlog-sprint-management.png" width="700"/>
 
 ---
 
 ## 📊 Jira Board (Task Workflow)
 
-![Board](images/jira-board-sprint-view.png)
+<img src="images/jira-board-sprint-view.png" width="700"/>
 
 ---
 
 ## 📈 Dashboard & Reporting
 
-![Dashboard](images/jira-dashboard-01-status.png)  
-![Dashboard](images/jira-dashboard-02-created-resolved.png)  
-![Dashboard](images/jira-dashboard-03-task-overview.png)
-
+<img src="images/jira-dashboard-01-status.png" width="700"/>  
+<img src="images/jira-dashboard-02-created-resolved.png" width="700"/> 
+<img src="images/jira-dashboard-03-task-overview.png" width="700"/>
 ---
 
 ## 🚀 Key Skills Demonstrated
